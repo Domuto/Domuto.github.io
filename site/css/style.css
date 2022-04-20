@@ -5220,8 +5220,8 @@ html [class*='section-'].section-bottom-0 {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	min-height: 140vh;
-	width: 80%;
+	min-height: 120vh;
+	width: 100%;
 }
 
 .section-fullheight .section-fullheight-inner > * {
